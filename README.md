@@ -1,4 +1,4 @@
-# GIT_PROJECT
+# GIT_Project
 name : surya
 dept : it
 rollno : y19it124
